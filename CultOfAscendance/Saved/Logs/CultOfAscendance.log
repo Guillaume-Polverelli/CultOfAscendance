@@ -1073,3 +1073,325 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.02-17.32.49:880][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 423 ms
 [2023.06.02-17.32.49:889][847]AssetCheck: New page: Asset Save: MainScene
 [2023.06.02-17.32.49:891][847]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainScene.MainScene
+[2023.06.02-17.34.56:731][745]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.02-17.34.56:762][745]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.02-17.34.56:940][747]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.02-17.34.58:669][792]LogContentBrowser: Attempting asset rename: NewFolder -> Data
+[2023.06.02-17.34.58:669][792]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.02-17.35.01:431][839]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.02-17.35.01:461][839]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.02-17.35.01:478][840]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.02-17.35.04:705][928]LogContentBrowser: Attempting asset rename: NewFolder -> Test3D
+[2023.06.02-17.35.04:706][928]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.02-17.35.06:828][964]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.02-17.35.06:862][964]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.02-17.35.06:881][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.02-17.35.07:980][997]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.06.02-17.35.07:981][997]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.02-17.36.29:223][486]LogLinker: Warning: Failed to load '/Game/Blueprints/Data/DA_StatsMultipliers': Can't find file.
+[2023.06.02-17.36.29:223][486]LogLinker: Warning: Failed to load '/Game/Blueprints/Data/DA_StatsMultipliers': Can't find file.
+[2023.06.02-17.36.29:223][486]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Data/DA_StatsMultipliers.DA_StatsMultipliers'
+[2023.06.02-17.36.31:891][644]LogViewport: Scene viewport resized to 1051x661, mode Windowed.
+[2023.06.02-17.36.32:557][644]LogViewport: Scene viewport resized to 614x840, mode Windowed.
+[2023.06.02-17.36.47:223][716]LogAssetTools: Warning: Failed to import 'C:\Users\guill\OneDrive\Documents\GitHub\Cult-Simulator\Content\Blueprints\Data\DA_StatsMultipliers.uasset'. Unknown extension 'uasset'.
+[2023.06.02-17.37.12:684][605]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.37.12:684][605]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.37.12:684][605]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.37.19:427][605]LogSlate: Took 0.012586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.02-17.37.37:608][605]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.02-17.37.37:617][605]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.02-17.37.37:624][605]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.02-17.37.37:652][607]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.02-17.37.48:313][662]LogContentBrowser: Attempting asset rename: NewBlueprint -> DA_StatsMultipliers
+[2023.06.02-17.37.48:327][662]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.02-17.37.50:127][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.02-17.37.50:203][823]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/DA_StatsMultipliers
+[2023.06.02-17.37.50:203][823]LogSavePackage: Moving '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Saved/DA_StatsMultipliersF94B82904F998C1C44E22B9E3FB8AE1E.tmp' to '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/Data/DA_StatsMultipliers.uasset'
+[2023.06.02-17.37.50:213][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 510 ms)
+[2023.06.02-17.37.50:216][823]AssetCheck: New page: Asset Save: DA_StatsMultipliers
+[2023.06.02-17.37.50:216][823]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Data/DA_StatsMultipliers.DA_StatsMultipliers
+[2023.06.02-17.37.51:644][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/DA_StatsMultipliers.DA_StatsMultipliers
+[2023.06.02-17.37.51:644][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.37.53:052][950]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.02-17.38.18:399][576]LogSlate: Took 0.009238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.02-17.38.18:439][576]LogSlate: Took 0.005466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.02-17.39.25:108][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.02-17.39.25:190][232]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/DA_StatsMultipliers
+[2023.06.02-17.39.25:191][232]LogSavePackage: Moving '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Saved/DA_StatsMultipliers240D8FAF427DCC28E2968B974D8973BC.tmp' to '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/Data/DA_StatsMultipliers.uasset'
+[2023.06.02-17.39.25:200][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 602 ms)
+[2023.06.02-17.39.25:209][232]AssetCheck: New page: Asset Save: DA_StatsMultipliers
+[2023.06.02-17.39.25:209][232]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Data/DA_StatsMultipliers.DA_StatsMultipliers
+[2023.06.02-17.39.26:119][296]BlueprintLog: New page: Compile DA_StatsMultipliers
+[2023.06.02-17.39.26:173][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.06.02-17.39.42:895][ 81]LogSlate: Window 'DA_StatsMultipliers' being destroyed
+[2023.06.02-17.39.42:902][ 81]LogSlate: Window 'DA_StatsMultipliers' being destroyed
+[2023.06.02-17.39.42:910][ 81]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.39.42:910][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.42.41:733][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/UI/BP_DragAndDropOperation.BP_DragAndDropOperation
+[2023.06.02-17.42.41:734][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.44.49:077][141]LogSlate: Window 'BP_DragAndDropOperation' being destroyed
+[2023.06.02-17.44.49:087][141]LogSlate: Window 'BP_DragAndDropOperation' being destroyed
+[2023.06.02-17.44.49:101][141]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.44.49:101][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.44.50:686][256]LogViewport: Scene viewport resized to 1051x661, mode Windowed.
+[2023.06.02-17.44.51:683][308]LogViewport: Scene viewport resized to 1273x848, mode Windowed.
+[2023.06.02-17.45.21:792][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.06.02-17.45.21:877][746]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewMap.NewMap
+[2023.06.02-17.45.21:877][746]Cmd: MAP LOAD FILE="../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.02-17.45.21:877][746]LightingResults: New page: Lighting Build
+[2023.06.02-17.45.21:878][746]LoadErrors: New page: Loading map: NewMap.umap
+[2023.06.02-17.45.21:942][746]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.21:943][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.21:950][746]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.06.02-17.45.21:951][746]MapCheck: New page: Map Check
+[2023.06.02-17.45.21:951][746]LightingResults: New page: Lighting Build
+[2023.06.02-17.45.21:980][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-17.45.22:004][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.06.02-17.45.22:011][746]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.22:011][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.22:013][746]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.22:013][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.22:044][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.02-17.45.22:074][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.02-17.45.22:083][746]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.06.02-17.45.22:083][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.45.22:083][746]LogAIModule: Creating AISystem for world NewMap
+[2023.06.02-17.45.22:084][746]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.02-17.45.22:084][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.02-17.45.22:084][746]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.02-17.45.22:491][746]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.06.02-17.45.22:491][746]LogWorldPartition: Display: WorldPartition initialize took 406 ms (total: 5.75 sec)
+[2023.06.02-17.45.23:247][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.02-17.45.23:412][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.02-17.45.23:419][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.02-17.45.23:420][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,981ms to complete.
+[2023.06.02-17.45.23:420][746]LogFileHelpers: Loading map 'NewMap' took 1.544
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: ================================================
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: Total job queries 75, among them cache hits 2 (2.67%)
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 66 distinct outputs (90.41%)
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.02-17.45.24:085][746]LogShaderCompilers: Display: ================================================
+[2023.06.02-17.45.26:411][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.06.02-17.45.26:484][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainScene.MainScene
+[2023.06.02-17.45.26:484][860]Cmd: MAP LOAD FILE="../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.02-17.45.26:484][860]LightingResults: New page: Lighting Build
+[2023.06.02-17.45.26:484][860]LoadErrors: New page: Loading map: MainScene.umap
+[2023.06.02-17.45.26:542][860]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.26:542][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.26:548][860]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.06.02-17.45.26:548][860]MapCheck: New page: Map Check
+[2023.06.02-17.45.26:548][860]LightingResults: New page: Lighting Build
+[2023.06.02-17.45.26:576][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-17.45.26:624][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.02-17.45.26:636][860]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.26:636][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.26:661][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.02-17.45.26:687][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.02-17.45.26:692][860]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainScene'.
+[2023.06.02-17.45.26:692][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.45.26:692][860]LogAIModule: Creating AISystem for world MainScene
+[2023.06.02-17.45.26:716][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.02-17.45.26:741][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.02-17.45.26:747][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.02-17.45.26:747][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,11ms to complete.
+[2023.06.02-17.45.26:747][860]LogFileHelpers: Loading map 'MainScene' took 0.263
+[2023.06.02-17.45.35:760][378]LogEditorViewport: Clicking Background
+[2023.06.02-17.45.45:469][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Blueprints\GM_Main.uasset: Invalid GameplayTag Base found in object K2Node_CallFunction_14.
+[2023.06.02-17.45.45:679][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Start found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:679][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:679][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:679][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Mendiant found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:680][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:681][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:682][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Start found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Mendiant found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Mendiant found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:683][470]LogGameplayTags: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Datas\DT_BasicCards.uasset: Invalid GameplayTag Base.Garde found in property /Game/Datas/F_Card.F_Card:Tag_11_2934B09947F65A88514175896BA33A24.
+[2023.06.02-17.45.45:709][470]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UMG_Main.UMG_Main
+[2023.06.02-17.45.45:717][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.45.45:726][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.45.45:734][470]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.06.02-17.45.46:427][470]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.02-17.45.46:427][470]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.02-17.45.46:672][470]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.06.02-17.45.46:679][470]LogSlate: Took 0.005872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.02-17.45.50:548][804]LogSlate: Window 'UMG_Main' being destroyed
+[2023.06.02-17.45.50:555][804]LogSlate: Window 'UMG_Main' being destroyed
+[2023.06.02-17.45.50:585][804]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.50:585][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.45.50:596][804]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.45.50:596][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.46.26:236][371]LogViewport: Scene viewport resized to 1051x661, mode Windowed.
+[2023.06.02-17.46.26:454][371]LogViewport: Scene viewport resized to 615x840, mode Windowed.
+[2023.06.02-17.47.03:443][635]LogViewport: Scene viewport resized to 1051x661, mode Windowed.
+[2023.06.02-17.47.04:184][684]LogViewport: Scene viewport resized to 1273x848, mode Windowed.
+[2023.06.02-17.47.09:667][300]LogObjectTools: Deleting 1 worlds: /Game/Levels/MainScene.MainScene
+[2023.06.02-17.47.09:667][300]LogObjectTools: Currently 3 active worlds: /Game/Levels/MainScene.MainScene, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2023.06.02-17.47.12:471][300]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.06.02-17.47.12:479][300]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.06.02-17.47.13:580][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.06.02-17.47.13:660][380]LogLinker: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Levels\Gym_3D.umap: Failed to load '/Game/Blueprints/BP_SituationTrigger': Can't find file.
+[2023.06.02-17.47.13:660][380]LogLinker: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Levels\Gym_3D.umap: VerifyImport: Failed to load package for import object 'Package /Game/Blueprints/BP_SituationTrigger'
+[2023.06.02-17.47.13:661][380]LogLinker: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Levels\Gym_3D.umap: Failed to load '/Game/Textures/UI/BoardSprite': Can't find file.
+[2023.06.02-17.47.13:661][380]LogLinker: Warning: [AssetLog] C:\Users\guill\OneDrive\Documents\GitHub\CultOfAscendance\CultOfAscendance\Content\Levels\Gym_3D.umap: VerifyImport: Failed to load package for import object 'Package /Game/Textures/UI/BoardSprite'
+[2023.06.02-17.47.13:680][380]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Gym_3D.Gym_3D
+[2023.06.02-17.47.13:680][380]Cmd: MAP LOAD FILE="../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.02-17.47.13:680][380]LightingResults: New page: Lighting Build
+[2023.06.02-17.47.13:680][380]LoadErrors: New page: Loading map: Gym_3D.umap
+[2023.06.02-17.47.13:681][380]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.47.13:681][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.13:682][380]MapCheck: New page: Map Check
+[2023.06.02-17.47.13:682][380]LightingResults: New page: Lighting Build
+[2023.06.02-17.47.13:709][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-17.47.13:752][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.06.02-17.47.13:764][380]LogWorld: UWorld::CleanupWorld for Gym_3D, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.47.13:764][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.13:795][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.06.02-17.47.13:822][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.02-17.47.13:847][380]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gym_3D'.
+[2023.06.02-17.47.13:848][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.47.13:848][380]LogAIModule: Creating AISystem for world Gym_3D
+[2023.06.02-17.47.13:876][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.02-17.47.13:908][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.02-17.47.13:918][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.02-17.47.13:918][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2023.06.02-17.47.13:918][380]LogFileHelpers: Loading map 'Gym_3D' took 0.238
+[2023.06.02-17.47.13:934][380]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_SituationTrigger_C /Game/Levels/Gym_3D.Gym_3D:PersistentLevel.BP_SituationTrigger_C_1
+[2023.06.02-17.47.13:934][380]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_SituationTrigger_C /Game/Levels/Gym_3D.Gym_3D:PersistentLevel.BP_SituationTrigger_C_1
+[2023.06.02-17.47.16:257][640]LogObjectTools: Deleting 1 worlds: /Game/Levels/MainScene.MainScene
+[2023.06.02-17.47.16:257][640]LogObjectTools: Currently 3 active worlds: /Game/Levels/Gym_3D.Gym_3D, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2023.06.02-17.47.16:291][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.02-17.47.18:066][640]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.02-17.47.18:072][640]LogWorld: UWorld::CleanupWorld for MainScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.47.18:072][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.18:110][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.06.02-17.47.18:136][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.02-17.47.18:162][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.02-17.47.21:876][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.02-17.47.21:877][ 57]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Gym_3D.Gym_3D
+[2023.06.02-17.47.21:877][ 57]Cmd: MAP LOAD FILE="../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.02-17.47.21:877][ 57]LightingResults: New page: Lighting Build
+[2023.06.02-17.47.21:877][ 57]LoadErrors: New page: Loading map: Gym_3D.umap
+[2023.06.02-17.47.21:885][ 57]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Levels/Gym_3D.Gym_3D:PersistentLevel.PaperSpriteActor_1.RenderComponent, from: Remove from navoctree)
+[2023.06.02-17.47.21:911][ 57]LogWorld: UWorld::CleanupWorld for Gym_3D, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.47.21:911][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.21:911][ 57]MapCheck: New page: Map Check
+[2023.06.02-17.47.21:911][ 57]LightingResults: New page: Lighting Build
+[2023.06.02-17.47.21:935][ 57]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-17.47.21:937][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.02-17.47.21:951][ 57]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gym_3D'.
+[2023.06.02-17.47.21:951][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.47.21:951][ 57]LogAIModule: Creating AISystem for world Gym_3D
+[2023.06.02-17.47.21:978][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.02-17.47.22:010][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.06.02-17.47.22:017][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.02-17.47.22:017][ 57]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2023.06.02-17.47.22:017][ 57]LogFileHelpers: Loading map 'Gym_3D' took 0.140
+[2023.06.02-17.47.22:025][ 57]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_SituationTrigger_C /Game/Levels/Gym_3D.Gym_3D:PersistentLevel.BP_SituationTrigger_C_1
+[2023.06.02-17.47.22:025][ 57]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_SituationTrigger_C /Game/Levels/Gym_3D.Gym_3D:PersistentLevel.BP_SituationTrigger_C_1
+[2023.06.02-17.47.23:421][213]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.02-17.47.23:427][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.02-17.47.23:428][213]PIE: New page: PIE session: Gym_3D (2 juin 2023 à 21:47:23)
+[2023.06.02-17.47.23:432][213]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.02-17.47.23:432][213]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.02-17.47.23:432][213]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Gym_3D
+[2023.06.02-17.47.23:438][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006154s)
+[2023.06.02-17.47.23:438][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Gym_3D.Gym_3D to /Game/Levels/UEDPIE_0_Gym_3D.Gym_3D (0.006201s)
+[2023.06.02-17.47.23:438][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.02-17.47.23:438][213]LogAIModule: Creating AISystem for world Gym_3D
+[2023.06.02-17.47.23:439][213]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2023.06.02-17.47.23:464][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.02-17.47.23:466][213]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.02-17.47.23:466][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.02-17.47.23:466][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.02-17.47.23:466][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.02-17.47.23:466][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.02-17.47.23:466][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.02-17.47.23:469][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.02-17.47.23:493][213]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2023.06.02-17.47.23:494][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.02-17.47.23:494][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.02-17.47.23:494][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.02-17.47.23:494][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.02-17.47.23:494][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.02-17.47.23:496][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.02-17.47.23:496][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.02-17.47.23:496][213]LogInit: FAudioDevice initialized.
+[2023.06.02-17.47.23:496][213]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gym_3D'.
+[2023.06.02-17.47.23:500][213]LogLoad: Game class is 'GM_Main_C'
+[2023.06.02-17.47.23:500][213]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Gym_3D.Gym_3D up for play (max tick rate 0) at 2023.06.02-19.47.23
+[2023.06.02-17.47.23:500][213]LogWorld: Bringing up level for play took: 0.000556
+[2023.06.02-17.47.23:502][213]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.06.02-17.47.23:511][213]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.02-17.47.23:511][213]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.06.02-17.47.23:511][213]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.06.02-17.47.23:512][213]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.06.02-17.47.23:513][213]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.02-17.47.23:513][213]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.06.02-17.47.23:513][213]PIE: Server logged in
+[2023.06.02-17.47.23:514][213]PIE: Play in editor total start time 0,087 seconds.
+[2023.06.02-17.47.29:059][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-17.47.29:059][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Gym_3D
+[2023.06.02-17.47.29:060][811]LogWorld: UWorld::CleanupWorld for Gym_3D, bSessionEnded=true, bCleanupResources=true
+[2023.06.02-17.47.29:060][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.29:064][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.02-17.47.29:069][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.02-17.47.29:095][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.02-17.47.29:098][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.02-17.47.29:100][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.02-17.47.29:105][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.02-17.47.29:146][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.02-17.47.29:169][812]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.06.02-17.47.30:412][951]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.47.30:412][951]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.47.30:413][951]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.02-17.47.40:307][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.02-17.47.40:433][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.02-17.47.40:452][108]LogSavePackage: Moving output files for package: /Game/Levels/Gym_3D
+[2023.06.02-17.47.40:453][108]LogSavePackage: Moving '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Saved/Gym_3D3811483A4E66776B378C4E8A4307595C.tmp' to '../../../../../../Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap'
+[2023.06.02-17.47.40:464][108]LogFileHelpers: Saving map 'Gym_3D' took 0.090
+[2023.06.02-17.47.40:472][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 768 ms)
+[2023.06.02-17.47.40:480][108]AssetCheck: New page: Asset Save: Gym_3D
+[2023.06.02-17.47.40:480][108]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Gym_3D.Gym_3D
