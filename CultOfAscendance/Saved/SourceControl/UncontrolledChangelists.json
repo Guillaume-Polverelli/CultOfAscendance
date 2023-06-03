@@ -150,9 +150,11 @@
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalActors__/Levels/NewMap/F/02/EF4XLIUDJSK74MJ1CMVX9L.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalActors__/Levels/NewMap/D/LT/C5IHJAQFWLZ09BE5NDRFYB.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/NewMap.umap",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/MainScene.umap",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/Data/DA_StatsMultipliers.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap"
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Datas/DT_BasicCards.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/GM_Main.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/MainScene.umap"
 			]
 		}
 	]
