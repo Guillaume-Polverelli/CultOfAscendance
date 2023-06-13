@@ -6,6 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/Data/DA_StatsMultipliers.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Datas/DT_BasicCards.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/GM_Main.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/BP_SituationTrigger.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Test_Decals.umap",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/NewFont.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/Decal_Mat.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/Ghastly_Panic.uasset",
+				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/Ghastly_Panic_Font.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/NewMap_HLOD0_Instancing.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalActors__/Levels/NewMap/6/L8/AS2SBN2JB7X0Z2IW9FSKQS.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalObjects__/Levels/NewMap/3/LT/UYIG7RQ3M3263B1JL94EMS.uasset",
@@ -150,14 +161,6 @@
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalActors__/Levels/NewMap/F/02/EF4XLIUDJSK74MJ1CMVX9L.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/__ExternalActors__/Levels/NewMap/D/LT/C5IHJAQFWLZ09BE5NDRFYB.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/NewMap.umap",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/Data/DA_StatsMultipliers.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Gym_3D.umap",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Datas/DT_BasicCards.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/GM_Main.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Blueprints/BP_SituationTrigger.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/Test_Decals.umap",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/NewFont.uasset",
-				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Materials/Decals/Decal_Mat.uasset",
 				"C:/Users/guill/OneDrive/Documents/GitHub/CultOfAscendance/CultOfAscendance/Content/Levels/MainScene.umap"
 			]
 		}
